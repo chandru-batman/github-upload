@@ -1,0 +1,8 @@
+#include<stdio.h>
+#include<conio.h>
+int main()
+{
+    printf("Hello Compiler, I am C");
+    getch();  // holds output screen, until user press a key
+    return 0;
+}
